@@ -35,3 +35,10 @@ git add -h eto spravka po komande
 git merge donar  nahodyas na mastere mergim donar
 
 git log --graph
+
+i chto 
+
+izo.png
+
+izo.png
+/home/kiber/projects/gitlearn/izo.png
