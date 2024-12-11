@@ -16,10 +16,6 @@ git diff
 
 89282409322
 
-wim   i vstavka
-
-vuhod esc  :wq enter
-
 git log --oneline
 
 git checkout kommit dalee mogno sozdat novuu vetku dla perehoda on etoi versii
@@ -41,6 +37,14 @@ i chto
 izo.png
 
 izo.png
+
 /home/kiber/projects/gitlearn/izo.png
+
+visklicatelnui znak []kruglue skobki v nih imya faila esli on v papke
+
+vetki sozdanie 
+
+
+
 
 git push

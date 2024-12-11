@@ -55,7 +55,7 @@ mv -pereminovanie perenos
 
 touch -  sozdanie pustogo faila
 
-cat - vuvod faila skleika sozdanie	
+cat - vuvod faila skleika sozdanie
 
   cd /run ; ~/ .config
 
@@ -66,3 +66,10 @@ cd ~/test vuhod v verhnuu direktoriu; cd ..
 cat > testfile
 
 cp testfile test2
+
+cp -r test test 2
+
+
+wim   i vstavka
+
+vuhod esc  :wq enter
