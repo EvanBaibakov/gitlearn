@@ -36,9 +36,11 @@ git merge donar  nahodyas na mastere mergim donar
 
 git log --graph
 
-i chto 
+i chto
 
 izo.png
 
 izo.png
 /home/kiber/projects/gitlearn/izo.png
+
+git push
